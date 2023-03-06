@@ -1,6 +1,6 @@
-# Unit expressions using PrefixBind and PostfixBind methods
+# Postfix expressions for Units of Measure using PrefixBind and PostfixBind methods #7031
 
-This proposals is about implementing syntactic support for unit expressions - like SI and Imperial units of measurements.
+This proposals is about implementing syntactic support for postfix expressions to allow for expressing Units of Measure, like SI and Imperial units of measurements.
 
 The purpose is to give the infrastructure and syntax that allows for third-party libraries for scientific calculations to tap into.
 
